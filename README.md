@@ -1,8 +1,11 @@
 Sales Insight Dashboard (Power BI + SQL)
 Developed an interactive Sales Insight Dashboard using Power BI and SQL/SQL Workbench. Implemented data warehousing principles to avoid direct modifications on the production server, ensuring business process integrity. Performed data cleaning and transformation to prepare accurate and reliable datasets. Leveraged the transformed data to deliver actionable insights through a dynamic Power BI dashboard.
 Software requirement:
+
 SQL - https://dev.mysql.com/downloads/installer/ select the compatible version(workbench and shell are included)
+
 Power BI to SQL database connector - https://dev.mysql.com/downloads/connector/net/
+
 Power BI - Microsoft store or https://www.microsoft.com/en-us/download/details.aspx?id=58494
 
 Data : Uploaded(https://github.com/AryanMishra2/Sales_insight_Dashboard/blob/main/db_dump.sql)
